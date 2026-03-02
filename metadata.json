@@ -1,0 +1,5 @@
+{
+  "name": "Sistema Solar 3D",
+  "description": "Uma simulação interativa do sistema solar usando Three.js com controle de velocidade orbital.",
+  "requestFramePermissions": []
+}
